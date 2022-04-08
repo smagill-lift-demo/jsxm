@@ -27,6 +27,9 @@ fontimg.src = "ft2font.png";
 var _fontmap_notes = [8*5, 8*22, 8*28];
 var pat_canvas_patnum;
 
+var welcome_text = 'Welcome to the JSXM Player. \
+  Documentation at https://www.a1k0n.net/code/jsxm/'
+
 var audio_events;
 var paused_events;
 var shown_row;
